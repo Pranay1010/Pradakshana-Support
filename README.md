@@ -1,10 +1,6 @@
----
-layout: default
-title: Pradakshana Support
----
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Pranay1010/Pradakshana-Support/assets/icon.png"
+  <img src="https://github.com/Pranay1010/Pradakshana-Support/blob/main/assets/icon.png"
        alt="Pradakshana icon"
        width="120"
        style="border-radius: 24px; margin-bottom: 16px;" />
@@ -49,5 +45,7 @@ Need personal assistance? We respond within 24 hours.
 ## Feedback & Blessings
 
 Every pradakshina brings grace. If Pradakshana has helped you stay focused on your spiritual practice, we’d love to hear from you—and a review on the App Store or Google Play helps other devotees discover peace too.
+
+---
 
 🙏 **May every circumambulation be filled with devotion and joy.**
