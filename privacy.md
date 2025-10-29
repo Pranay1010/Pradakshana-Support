@@ -1,7 +1,3 @@
----
-layout: default
-title: Pradakshana Privacy Policy
----
 
 # Pradakshana – Privacy Policy
 _Last updated: October 28, 2025_
