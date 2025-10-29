@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/Pranay1010/Pradakshana-Support/blob/main/assets/icon.png"
+  <img src="Assets/icon.png"
        alt="Pradakshana icon"
        width="120"
        style="border-radius: 24px; margin-bottom: 16px;" />
