@@ -2,7 +2,7 @@
 # Pradakshana – Privacy Policy
 _Last updated: October 28, 2025_
 
-Pradakshana (“the App”) is developed by **Pranay Kammari** (“we”, “us”, or “our”). This document explains how we handle your information when you use the App.
+Pradakshana (“the App”) is developed by **Pranay Kammari** . This document explains how we handle your information when you use the App.
 
 ---
 
@@ -57,7 +57,7 @@ Since no personal data leaves your device, rights such as access, deletion, or c
 
 ## 8. Changes to This Policy
 
-We may update this policy as the App evolves. Changes will be posted at this page with a new “Last updated” date. Continued use of the App after changes indicates acceptance.
+We may update this policy as the App evolves. Changes will be posted at this page with a new 10-29-25 date. Continued use of the App after changes indicates acceptance.
 
 ---
 
